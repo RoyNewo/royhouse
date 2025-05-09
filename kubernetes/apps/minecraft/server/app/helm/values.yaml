@@ -196,7 +196,7 @@ minecraftServer:
   # If type is set to FTBA and a modpack is set, this sets the version to run
   ftbModpackVersionId:
   # If type is set to CURSEFORGE, this sets the server mod to run. Can also provide url to curseforge package.
-  cfServerMod: create-astral
+  cfServerMod:
   ## If type is set to FABRIC, this sets the version of fabric server launcher
   ## to use. Defaults to latest available for minecraftServer.version.
   ##
