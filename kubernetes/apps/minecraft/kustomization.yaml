@@ -7,3 +7,4 @@ components:
   - ../../components/common
 resources:
   - ./server/ks.yaml
+  - ./r-con/ks.yaml
